@@ -10,6 +10,7 @@ namespace zy1
         public void Main(string[] args)
         {
             Console.WriteLine("哈哈");
+            //哈哈
         }
     }
 }
